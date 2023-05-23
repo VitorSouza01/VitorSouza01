@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Vitor Souza 👋
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorSouza01&show_icons=true&theme=dracula)
+![Vitor Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSouza01&hide_progress=true)
 
 ## Tecnologias que eu uso no meu dia
 
